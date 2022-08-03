@@ -1,0 +1,50 @@
+title{
+    margin-bottom: 10px;
+    text-align:center;
+    width: 210px;
+    color:green;
+    border: solid black 22px;
+    font-style: italic;
+    
+    }
+
+    input[type="button"]
+    {
+    background-color:wheat;
+    color: black;
+    border: solid black 2px;
+    width: 98%;
+    height: 41px;
+    border-radius: 19px;
+    
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-weight: bold;
+    
+    
+    }
+
+    input[type="text"]
+    {
+    background-color:rgb(248, 243, 243);
+    border: solid black 2px;
+    width: 135%;
+    height: 48px;
+    border-radius: 15px;
+    font-weight: bolder;
+
+    }
+
+
+.title {
+    text-align: center;
+    font-size: medium;
+    font-family: fantasy;
+    text-align: center;
+
+    
+}
+
+body {
+    background-image: url('https://images.unsplash.com/photo-1625225233840-695456021cde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+}
+
